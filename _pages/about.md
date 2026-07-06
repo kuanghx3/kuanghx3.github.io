@@ -139,5 +139,5 @@ My work has been published in top-tier journals including *Applied Energy* (IF=1
 ---
 
 <div align="center">
-<sub>🤖 This profile page was generated with <b>Claude Code</b> powered by <b>DeepSeek V4</b>, and subsequently reviewed and revised by the author.</sub>
+<sub>🤖 This profile page was generated with <b>Claude Code</b> powered by <b>DeepSeek V4</b>, and reviewed and revised by Haoxuan Kuang.</sub>
 </div>
