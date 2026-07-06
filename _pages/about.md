@@ -9,7 +9,6 @@ redirect_from:
 
 <div style="text-align: center;" markdown="1">
 
-<img src="images/avatar.jpg" alt="Haoxuan Kuang" width="200" style="border-radius: 50%;">
 
 # Haoxuan Kuang (邝浩轩)
 
