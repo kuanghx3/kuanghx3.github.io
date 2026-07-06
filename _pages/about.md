@@ -12,11 +12,6 @@ redirect_from:
 
 # Haoxuan Kuang (邝浩轩)
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.hk/citations?user=ENeet34AAAAJ&hl=zh-CN&oi=ao)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2267-5181)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuanghx3)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuanghx3@qq.com)
-
 
 🎓 Ph.D. Candidate in Control Science and Engineering  
 📍 School of Intelligent Systems Engineering, Sun Yat-sen University, Shenzhen, China
