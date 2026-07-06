@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center">
+<div style="text-align: center;" markdown="1">
 
+<img src="images/avatar.jpg" alt="Haoxuan Kuang" width="200" style="border-radius: 50%;">
 
 # Haoxuan Kuang (邝浩轩)
 
@@ -16,6 +17,7 @@ redirect_from:
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2267-5181)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuanghx3)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuanghx3@qq.com)
+
 
 🎓 Ph.D. Candidate in Control Science and Engineering  
 📍 School of Intelligent Systems Engineering, Sun Yat-sen University, Shenzhen, China
