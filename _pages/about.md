@@ -34,7 +34,7 @@ My work has been published in top-tier journals including *Applied Energy* (IF=1
 - 💰 **Energy Economics & Pricing** — Price elasticity of demand, dynamic pricing strategies for EV charging
 - 🅿️ **Parking Occupancy Prediction** — Deep learning with heterogeneous information fusion
 - 🚕 **Urban Mobility & Taxi Distribution** — Impact of ride-hailing platforms on traditional transportation
-- 🧠 **Deep Learning** — Graph Neural Networks (GCN, GAT, Hypergraph), Transformer, LSTM, Physics-Informed Neural Networks (PINN), Meta-Learning
+- 🧠 **Deep Learning** — Graph Neural Networks (GCN, GAT, Hypergraph), Transformer, LSTM, Physics-Informed Neural Networks (PINN), Meta-Learning, Federated Learning
 - 🏙️ **Smart City & Intelligent Transportation Systems**
 
 ---
