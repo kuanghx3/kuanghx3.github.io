@@ -23,7 +23,7 @@ repository               : "kuanghx3/kuanghx3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "kuanghx_profile.jpg"
   name             : "Haoxuan Kuang"
   pronouns         : # example: "she/her"
   bio              : "Ph.D. Candidate in Control Science and Engineering, School of Intelligent Systems Engineering, Sun Yat-sen University"
